@@ -4,7 +4,7 @@ function destructivelyAppendKitten(kittens) {
   return Ralph;
 }
 
-function destructivelyAppendKitten(Milo) {
+function destructivelyAppendKitten("Milo") {
   kittens.push();
   return kittens;
 }
