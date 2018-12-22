@@ -5,6 +5,6 @@ function destructivelyAppendKitten(kittens) {
 }
 
 function destructivelyAppendKitten(kittens) {
-  kittens.push(0);
+  kittens.push(name);
   return kittens;
 }
