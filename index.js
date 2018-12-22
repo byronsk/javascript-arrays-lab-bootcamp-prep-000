@@ -33,3 +33,4 @@ function removeLastKitten(name) {
   return kittens.slice(1);
 }
 
+function 
