@@ -14,5 +14,5 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivelyRemoveLastKitten(name) {
-  kit
+  kittens
 }
